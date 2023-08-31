@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjohanasalb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-http://github-readme-streak-stats.herokuapp.com/?username=kellyjohanasalb=tokyonight)](https://git.io/streak-stats)
+
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
-http://github-readme-streak-stats.herokuapp.com/?user=saolarte&theme=tokyonight)](https://git.io/streak-stats)
+
