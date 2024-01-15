@@ -24,6 +24,24 @@ Here are some ideas to get you started:
 <h3 align="center">fron end traine</h3>
 <h6 align="center">Diseñadora gráfica y estudiante de programación Front End, con enfoque en fortalecer mi perfil para el desarrollo de funcionalidades desde la experiencia de usuario (UI y UX) en todas las fases del desarrollo de software. Persona pensadora, social, cooperativa, paciente y con capacidad de aprendizaje. Trabajo de manera ordenada, precisa y presto atención a los detalles, con actitud siempre dispuesta tanto individualmente como en equipos.</h6>
 
+<h3 align="center">Habilidades Técnicas</h3>
+- Html5
+- Css
+- Sass
+- JavaScaript
+- React.js
+- React Rouder DOM
+- Api Rest
+- Redux
+- Firebase
+
+<h3 align="center">Habilidades Blandas</h3>
+- Dinamica
+- Manejo del tiempo
+- Comunicación asertiva
+- Resolucion de conflictos
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjohanasalb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
