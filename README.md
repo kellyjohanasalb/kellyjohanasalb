@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Kelly Saldaña</h1>
 <h3 align="center">fron end traine</h3>
-
+<h6 align="center">Diseñadora gráfica y estudiante de programación Front End, con enfoque en fortalecer mi perfil para el desarrollo de funcionalidades desde la experiencia de usuario (UI y UX) en todas las fases del desarrollo de software. Persona pensadora, social, cooperativa, paciente y con capacidad de aprendizaje. Trabajo de manera ordenada, precisa y presto atención a los detalles, con actitud siempre dispuesta tanto individualmente como en equipos.</h6>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjohanasalb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kellyjohanasalb&theme=ayu-light)](https://git.io/streak-stats)
