@@ -20,94 +20,71 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Kelly Saldaña</h1>
+<h3 align="center">💻 Diseñadora Gráfica & Desarrolladora Frontend en formación hacia Full Stack 💻</h3>
 
-<h3 align="center">💫 Diseñadora gráfica y desarrolladora Front End en formación, con proyección hacia el desarrollo Full Stack.</h3>
 <h6 align="center">
-Me apasiona crear soluciones digitales que unan el diseño, la funcionalidad y la experiencia del usuario.  
-<br><br>
-Me caracterizo por mi empatía, organización y atención al detalle. Disfruto aprender nuevas tecnologías, colaborar en equipo y aportar ideas que transformen proyectos en experiencias significativas.
+Soy una profesional creativa que combina el diseño y la programación para construir experiencias digitales completas.  
+Actualmente enfoco mi aprendizaje en el desarrollo Frontend y Full Stack, aplicando mis conocimientos en diseño UI/UX,  
+interfaz de usuario y desarrollo funcional con tecnologías modernas.  
+Me caracterizo por ser detallista, colaborativa y perseverante, con una pasión genuina por aprender y crear soluciones  
+que conecten visualmente y técnicamente con las personas. ✨
 </h6>
 
 ---
 
-<h3 align="center">🚀 Front End Trainee | Future Full Stack Developer</h3>
-
----
-
-<h3 align="center">🛠️ Habilidades Técnicas</h3>
-
-<ul align="center">
-  <li>HTML5 / CSS / Sass</li>
-  <li>JavaScript (ES6+)</li>
-  <li>TypeScript</li>
-  <li>React.js / React Native</li>
-  <li>Angular</li>
-  <li>Bootstrap / Tailwind CSS</li>
-  <li>APIs REST</li>
-  <li>Redux / Firebase</li>
-  <li>MySQL</li>
-</ul>
-
----
-
-<h3 align="center">💡 Habilidades Blandas</h3>
-
-<ul align="center">
-  <li>Dinámica y proactiva</li>
-  <li>Manejo del tiempo</li>
-  <li>Comunicación asertiva</li>
-  <li>Resolución de conflictos</li>
-  <li>Trabajo en equipo</li>
-</ul>
-
----
+### 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjohanasalb&layout=compact&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjohanasalb&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=kellyjohanasalb&theme=ayu-light">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=kellyjohanasalb&theme=ayu-light" alt="GitHub Streak" />
-  </a>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="40" alt="REST API" />
 </p>
 
 ---
 
-<h3 align="center">🤝 Connect with me:</h3>
+### 🎨 Diseño y Creatividad
+
 <p align="center">
-  <a href="https://linkedin.com/in/kellyjohanasalb" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Kelly Saldaña" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/kellysalb" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - Kelly Saldaña" height="30" width="40" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="Illustrator" />
 </p>
 
 ---
 
-<h3 align="center">🧩 Languages and Tools</h3>
+### 💡 Habilidades Técnicas
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+Frontend • UI/UX • Responsive Design • Versionado con Git • Integración de APIs • Base de datos MySQL  
+Desarrollo con React y React Native • Manejo de estado con Redux y Zustand • Consumo de servicios REST  
 </p>
 
+---
+
+### 🌱 Habilidades Blandas
+<p align="center">
+Trabajo en equipo • Comunicación asertiva • Adaptabilidad • Pensamiento creativo • Paciencia • Colaboración  
+Atención al detalle • Organización • Aprendizaje continuo  
+</p>
+
+---
+
+### 📫 Conectemos
+<p align="center">
+  <a href="https://www.linkedin.com/in/kellyjohanasaldanab-uxdesigner/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+</p>
 
 
