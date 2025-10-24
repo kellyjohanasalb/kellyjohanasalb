@@ -65,7 +65,7 @@ que conecten visualmente y técnicamente con las personas. ✨
   <!-- Express -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
   <!-- REST API -->
-  <img src="https://www.svgrepo.com/show/374091/api.svg" alt="api rest" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="40" alt="REST API" />
   <!-- Zustand -->
   <img src="https://avatars.githubusercontent.com/u/65440705?s=200&v=4" alt="zustand" width="40" height="40"/> 
 </p>
