@@ -89,8 +89,7 @@ Me apasiona crear interfaces limpias, funcionales y coherentes con la identidad 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/>
   <!-- InDesign -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/> 
-  <!-- CorelDRAW -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/CorelDraw_logo_2020.svg" alt="corel draw" width="40" height="40"/> 
+
 </p>
 
 
