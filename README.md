@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kelly Saldaña</h1>
-<h3 align="center">fron end traine</h3>
-<h6 align="center">Diseñadora gráfica y estudiante de programación Front End, con enfoque en fortalecer mi perfil para el desarrollo de funcionalidades desde la experiencia de usuario (UI y UX) en todas las fases del desarrollo de software. Persona pensadora, social, cooperativa, paciente y con capacidad de aprendizaje. Trabajo de manera ordenada, precisa y presto atención a los detalles, con actitud siempre dispuesta tanto individualmente como en equipos.</h6>
+<h3 align="center"<h6 align="center">💫 Diseñadora gráfica y desarrolladora Front End en formación, con proyección hacia el desarrollo Full Stack. Me apasiona crear soluciones digitales que unan el diseño, la funcionalidad y la experiencia del usuario.
+
+Me caracterizo por mi empatía, organización y atención al detalle. Disfruto aprender nuevas tecnologías, colaborar en equipo y aportar ideas que transformen proyectos en experiencias significativas.</h6>>fron end traine</h3>
+
 
 <h3 align="center">Habilidades Técnicas</h3>
 - Html5
