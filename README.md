@@ -39,7 +39,7 @@ que conecten visualmente y técnicamente con las personas. ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -50,17 +50,25 @@ que conecten visualmente y técnicamente con las personas. ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="40" alt="REST API" />
+  <img src="https://www.svgrepo.com/show/353413/api.svg" alt="api rest" width="40" height="40"/>
 </p>
 
 ---
 
-### 🎨 Diseño y Creatividad
+<h3 align="center">Diseño y Creatividad</h3>
+<p align="center">
+🎨 Especialista en diseño visual con experiencia en herramientas de Adobe y software de edición profesional.  
+Me apasiona crear interfaces limpias, funcionales y coherentes con la identidad de cada proyecto.
+</p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="Illustrator" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CorelDraw_X7_icon.svg" alt="corel draw" width="40" height="40"/> 
 </p>
+
 
 ---
 
